@@ -1,0 +1,88 @@
+{
+    "display_id": "SSOI-1070",
+    "title": "No.1070",
+    "description": {
+        "format": "html",
+        "value": "<p><span style=\"color: rgb(32, 33, 36);\">\u6211\u56fd\u73b0\u6709x\u4ebf\u4eba\u53e3\uff0c\u6309\u7167\u6bcf\u5e740.1%\u7684\u589e\u957f\u901f\u5ea6\uff0cn\u5e74\u540e\u5c06\u6709\u591a\u5c11\u4eba\uff1f\u4fdd\u7559\u5c0f\u6570\u70b9\u540e\u56db\u4f4d\u3002</span><br /></p>"
+    },
+    "tags": [
+        "\u4e00\u672c\u901a"
+    ],
+    "input_description": {
+        "format": "html",
+        "value": "<p><span style=\"color: rgb(32, 33, 36);\">\u4e00\u884c\uff0c\u5305\u542b\u4e24\u4e2a\u6574\u6570x\u548cn\uff0c\u5206\u522b\u662f\u4eba\u53e3\u57fa\u6570\u548c\u5e74\u6570\uff0c\u4ee5\u5355\u4e2a\u7a7a\u683c\u5206\u9694\u3002</span><br /></p>"
+    },
+    "output_description": {
+        "format": "html",
+        "value": "<p><span style=\"color: rgb(32, 33, 36);\">\u8f93\u51fa\u6700\u540e\u7684\u4eba\u53e3\u6570\uff0c\u4ee5\u4ebf\u4e3a\u5355\u4f4d\uff0c\u4fdd\u7559\u5230\u5c0f\u6570\u70b9\u540e\u56db\u4f4d\u30021\u2264x\u2264100,1\u2264n\u2264100\u3002</span><br /></p>"
+    },
+    "test_case_score": [
+        {
+            "score": 10,
+            "input_name": "1.in",
+            "output_name": "1.out"
+        },
+        {
+            "score": 10,
+            "input_name": "2.in",
+            "output_name": "2.out"
+        },
+        {
+            "score": 10,
+            "input_name": "3.in",
+            "output_name": "3.out"
+        },
+        {
+            "score": 10,
+            "input_name": "4.in",
+            "output_name": "4.out"
+        },
+        {
+            "score": 10,
+            "input_name": "5.in",
+            "output_name": "5.out"
+        },
+        {
+            "score": 10,
+            "input_name": "6.in",
+            "output_name": "6.out"
+        },
+        {
+            "score": 10,
+            "input_name": "7.in",
+            "output_name": "7.out"
+        },
+        {
+            "score": 10,
+            "input_name": "8.in",
+            "output_name": "8.out"
+        },
+        {
+            "score": 10,
+            "input_name": "9.in",
+            "output_name": "9.out"
+        },
+        {
+            "score": 10,
+            "input_name": "10.in",
+            "output_name": "10.out"
+        }
+    ],
+    "hint": {
+        "format": "html",
+        "value": ""
+    },
+    "time_limit": 1000,
+    "memory_limit": 256,
+    "samples": [
+        {
+            "input": "13 10",
+            "output": "13.1306"
+        }
+    ],
+    "template": {},
+    "spj": null,
+    "rule_type": "OI",
+    "source": "SDNU \u673a\u5668\u4eba\u5b9e\u9a8c\u5ba4\u5728\u7ebf\u8bc4\u6d4b\u7cfb\u7edf http://127.0.0.1",
+    "answers": []
+}
